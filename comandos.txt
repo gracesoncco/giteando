@@ -4,3 +4,5 @@ ll listar directorio
 git init= empezar a usar git
 git status= ver cual es el estado
 git add archivo= agregar un archivo a git
+git diff archivo = para ver las modificaciones o diferencias
+git commit -m 'Mensaje' = Encomendar mis cambios con un mensaje
